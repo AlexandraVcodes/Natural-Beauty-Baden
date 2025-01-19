@@ -9,5 +9,9 @@ body {
 }
 
 h1 {
-  color: #83580b;
+  color: var(--secondary-color);
+}
+
+h2 {
+  color: var(--secondary-color);
 }
