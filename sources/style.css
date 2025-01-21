@@ -15,3 +15,15 @@ h1 {
 h2 {
   color: var(--secondary-color);
 }
+
+.main-diodenlaser {
+  color: var(--secondary-color);
+}
+
+.main-peeling {
+  color: var(--secondary-color);
+}
+
+.main-icoone {
+  color: var(--secondary-color);
+}
