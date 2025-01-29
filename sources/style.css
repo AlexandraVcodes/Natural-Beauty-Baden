@@ -33,14 +33,16 @@ h3 {
   color: var(--secondary-color);
 }
 
-.alina {
-  max-width: 600px;
-}
-
 .text-alina {
   text-align: justify;
 }
 
-.header-alina {
+.header-alina,
+.header-loredana {
   padding: 15px;
+}
+
+.intro-team {
+  text-align: center;
+  padding: 10px;
 }
