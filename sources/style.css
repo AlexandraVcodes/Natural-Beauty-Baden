@@ -6,6 +6,7 @@
 
 body {
   background-color: #fffafa;
+  padding: 10px;
 }
 
 h1 {
@@ -32,6 +33,14 @@ h3 {
   color: var(--secondary-color);
 }
 
-.team-alina {
-  max-width: 700px;
+.alina {
+  max-width: 600px;
+}
+
+.text-alina {
+  text-align: justify;
+}
+
+.header-alina {
+  padding: 15px;
 }
