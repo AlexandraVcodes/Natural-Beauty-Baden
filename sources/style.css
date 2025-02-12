@@ -71,3 +71,9 @@ h3 {
   margin-right: 30%;
   border-radius: 4%;
 }
+
+.icoone-text,
+.icoone-advantages {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
