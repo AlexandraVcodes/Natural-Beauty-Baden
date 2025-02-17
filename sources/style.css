@@ -104,3 +104,12 @@ h3 {
   max-width: 39px;
   padding: 4px;
 }
+
+.header-diodenlaser {
+  max-height: 650px;
+  max-width: 720px;
+}
+
+.dioden-header {
+  padding: 8px;
+}
