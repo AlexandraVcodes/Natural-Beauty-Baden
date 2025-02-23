@@ -118,3 +118,14 @@ h3 {
   font-weight: 700;
   color: #900048;
 }
+
+.impressum-inhalt,
+.impressum-header,
+.impressum-inhalt-1 {
+  display: flex;
+  justify-content: center;
+}
+
+.impressum-header {
+  margin: 10px;
+}
