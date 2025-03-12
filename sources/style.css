@@ -150,6 +150,11 @@ h3 {
   justify-content: left;
 }
 
+.kontakt-alina {
+  font-weight: 700;
+  color: var(--secondary-color);
+}
+
 @media (max-width: 600px) {
   .contact-lory {
     border-radius: 3px;
