@@ -158,6 +158,16 @@ h3 {
     background: var(--secondary-color);
     box-shadow: var(--box-shadow);
     color: var(--primary-color);
-    color: #fae6c3;
+    width: 155px;
+  }
+
+  .impressum-link {
+    display: flex;
+    background: var(--secondary-color);
+    box-shadow: var(--box-shadow);
+    color: var(--primary-color);
+    padding: 5px;
+    border-radius: 4%;
+    width: 120px;
   }
 }
