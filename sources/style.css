@@ -146,6 +146,6 @@ h3 {
 }
 
 .maps-skizze {
-  isplay: flex;
+  display: flex;
   justify-content: left;
 }
