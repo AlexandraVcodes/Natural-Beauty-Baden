@@ -88,11 +88,31 @@ h3 {
   background: var(--secondary-color);
   box-shadow: var(--box-shadow);
   color: var(--primary-color);
-  padding: 10px;
   width: 20%;
-  margin-left: 40%;
-  margin-right: 30%;
-  border-radius: 6%;
+  border-radius: 4%;
+  margin-left: 280px;
+}
+.buchungslink-lory {
+  font-weight: 500;
+  background: var(--secondary-color);
+  box-shadow: var(--box-shadow);
+  color: var(--primary-color);
+  margin: 5px;
+  width: 20%;
+  border-radius: 4%;
+  margin-left: 30px;
+}
+
+.buchungslink {
+  color: white;
+}
+.button-container {
+  display: flex;
+}
+
+#foto-lory {
+  max-width: 400px;
+  max-height: 550px;
 }
 
 .social-media-icons {
@@ -170,16 +190,6 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  .contact-lory {
-    border-radius: 3px;
-    padding: 7px 6px;
-    text-decoration: none;
-    background: var(--secondary-color);
-    box-shadow: var(--box-shadow);
-    color: var(--primary-color);
-    width: 155px;
-  }
-
   .impressum-link {
     display: flex;
     background: var(--secondary-color);
@@ -188,5 +198,24 @@ h3 {
     padding: 5px;
     border-radius: 4%;
     width: 120px;
+  }
+
+  .contact-lory {
+    font-weight: 400;
+    background: var(--secondary-color);
+    box-shadow: var(--box-shadow);
+    color: var(--primary-color);
+    padding: 10px;
+    width: 35%;
+    margin-left: 20px;
+  }
+  .buchungslink-lory {
+    font-weight: 400;
+    background: var(--secondary-color);
+    box-shadow: var(--box-shadow);
+    color: var(--primary-color);
+    padding: 10px;
+    margin: 5px;
+    width: 35%;
   }
 }
