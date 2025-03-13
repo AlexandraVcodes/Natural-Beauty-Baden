@@ -224,7 +224,7 @@ h3 {
   #preise-pakete-herren,
   #preise-micro,
   #preise-icoone {
-    max-height: 380px;
+    max-width: 370px;
     max-height: 900px;
   }
 }
