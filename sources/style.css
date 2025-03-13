@@ -62,7 +62,7 @@ h3 {
 #preise-micro,
 #preise-icoone {
   max-width: 420px;
-  max-height: 950px;
+  max-height: 940px;
 }
 
 .impressum-link {
@@ -206,7 +206,7 @@ h3 {
     box-shadow: var(--box-shadow);
     color: var(--primary-color);
     padding: 10px;
-    width: 35%;
+    width: 40%;
     margin-left: 20px;
   }
   .buchungslink-lory {
@@ -217,5 +217,14 @@ h3 {
     padding: 10px;
     margin: 5px;
     width: 35%;
+  }
+  #preise-laser-klein,
+  #preise-laser-gross,
+  #preise-pakete-damen,
+  #preise-pakete-herren,
+  #preise-micro,
+  #preise-icoone {
+    max-height: 380px;
+    max-height: 900px;
   }
 }
