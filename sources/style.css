@@ -34,6 +34,10 @@ h3 {
 .main-icoone {
   color: var(--secondary-color);
 }
+#foto-icoone {
+  max-width: 450px;
+  max-height: 750px;
+}
 
 .text-alina {
   text-align: justify;
