@@ -189,6 +189,18 @@ h3 {
   color: var(--secondary-color);
 }
 
+.text-aktion {
+  font-weight: 700;
+  color: var(--secondary-color);
+  padding: 4px;
+}
+
+.termin-sichern {
+    color: var(--secondary-color);
+    font-weight: 700;
+    padding: 4px;
+  }
+}
 @media (max-width: 600px) {
   .impressum-link {
     display: flex;
