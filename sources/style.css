@@ -89,7 +89,7 @@ h3 {
   box-shadow: var(--box-shadow);
   color: var(--primary-color);
   width: 20%;
-  border-radius: 4%;
+  border-radius: 3%;
   margin-left: 280px;
 }
 .buchungslink-lory {
@@ -99,7 +99,7 @@ h3 {
   color: var(--primary-color);
   margin: 5px;
   width: 20%;
-  border-radius: 4%;
+  border-radius: 3%;
   margin-left: 30px;
 }
 
