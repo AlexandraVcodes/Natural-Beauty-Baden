@@ -153,6 +153,11 @@ h3 {
   color: #900048;
 }
 
+.haut-preise {
+  font-weight: 700;
+  color: #eb2632;
+}
+
 .impressum-inhalt,
 .impressum-header,
 .impressum-inhalt-1 {
@@ -238,5 +243,10 @@ h3 {
   #preise-icoone {
     max-width: 370px;
     max-height: 900px;
+  }
+
+  .haut-preise {
+    text-align: center;
+    font-weight: 600;
   }
 }
